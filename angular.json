@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "meamenu-frontend"
+    }
+  },
+  "defaultProject": "meamenu-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
